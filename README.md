@@ -1,6 +1,6 @@
 # SmileDetection
 
-Smile Detection project codes for course cs124, SJTU.
+Smile Detection project codes for course cs124, SJTU. (I am one of the TAs. I designed this project for students.)
 
 # Problem Description
 
