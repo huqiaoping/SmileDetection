@@ -11,9 +11,9 @@ Given a picture of a person, could you tell me whether he/she is smiling? Please
 ## Installation
 - This code was tested with Python 3.7, windows 10
 - Dataset [GENKI-4K](http://mplab.ucsd.edu/wordpress/wp-content/uploads/genki4k.tar) should be downloaded to train the models. 
-- data_faces are face images gernerated from orignal GENKI-4K (using opencv face detector).
-- xmls containes two xml files from opencv.
-- img_label.txt is the face image names and their labels. The images that cannot be detected faces by opencv are discarded.
+- **data_faces** are face images gernerated from orignal GENKI-4K (using opencv face detector).
+- **xmls** containes two xml files from opencv.
+- **img_label.txt** is the face image names and their labels. The images that cannot be detected faces by opencv are discarded.
 - Clone this repo:
 ```
 git clone https://github.com/huqiaoping/SmileDetection
